@@ -27,7 +27,10 @@
             line-height: 1.4;
         }
 
-        h1 { text-align:center; margin-bottom:1.5rem; font-size:2.1rem; }
+        h1 { text-align:center; margin-bottom:1.0rem; font-size:2.1rem; }
+        h2 { text-align:center; margin-bottom:1.0rem; font-size:0.9rem; }
+        
+        
 
         .controls { display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-bottom:1.5rem; }
 
@@ -124,8 +127,7 @@
 <body>
 
 <h1>Q.S.L B.Y B.U.R.E.A.U</h1>
-<h2>Quite Serious Logistics   Because Your   Bureau Undoubtedly Requires Efficient Amateur Utility</h2>
-
+<h2>(Q)uite (S)erious (L)ogistics (B)ecause (Y)our (B)ureau (U)ndoubtedly (R)equires (E)fficient (A)mateur (U)tility</h2>
 <div class="controls">
     <input type="text" id="callsign" placeholder="ENTER CALLSIGN →" autofocus/>
     <button class="btn-add" id="btn-add">Add [ENTER]</button>
@@ -185,7 +187,7 @@ let dragOffset = { x:0, y:0 };
 let speechLang = 'en-US';
 
 const PREFIX_URL = 'https://raw.githubusercontent.com/rSignal86/QSL-BY-BUREAU/main/data/prefixList.json';
-const VERSION = 'GHv4.0.0';
+const VERSION = 'GHv1.0.0';
 
 function log(message, type = 'normal') {
     if (!consoleVisible) return;
@@ -435,7 +437,7 @@ function toggleConsole() {
         log("Omg, i have been activated", "success");
         log("HumorMode is enabled", "success");
         log("i should probably hide the cards.", "success");
-        log("Error: Not possibly, snitcher i online", "success");
+        log("Error: Not possibly, snitcher i online", "failed");
     }
 }
 
