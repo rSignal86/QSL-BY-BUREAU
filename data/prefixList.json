@@ -968,9 +968,9 @@
       "relatedTerritories": []
     },
     "Saudi-Arabia": {
-      "prefixes": ["HZ"],
-      "displayIntervals": ["HZ"],
-      "hasQSLSortService": false,
+      "prefixes": ["7Z", "HZ"],
+      "displayIntervals": ["7Z - HZ"],
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Senegal": {
