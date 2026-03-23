@@ -38,8 +38,8 @@
       "relatedTerritories": []
     },
     "Argentina": {
-      "prefixes": ["LU", "LW", "AY", "AZ", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9"],
-      "displayIntervals": ["LU - LW", "AY - AZ", "L2 - L9"],
+      "prefixes": ["LU", "LV", "LW", "AY", "AZ", "L1", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9"],
+      "displayIntervals": ["LU - LW", "AY - AZ", "L1 - L9"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -837,7 +837,7 @@
     },
     "Norway": {
       "prefixes": ["3Y", "LA", "LB", "LC", "LD", "LE", "LF", "LG", "LH", "LI", "LJ", "LK", "LL", "LM", "LN", "JW", "JX"],
-      "displayIntervals": ["LA - LN", "JW - JX", "3Y"],
+      "displayIntervals": ["3Y", "LA - LN", "JW - JX"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Svalbard", "Jan Mayen", "Bouvet Island", "Peter I Island", "Queen Maud land"]
     },
