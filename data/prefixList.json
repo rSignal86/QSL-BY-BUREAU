@@ -968,8 +968,8 @@
       "relatedTerritories": []
     },
     "Saudi-Arabia": {
-      "prefixes": ["7Z", "HZ"],
-      "displayIntervals": ["7Z - HZ"],
+      "prefixes": ["7Z", "8Z", "HZ"],
+      "displayIntervals": ["7Z- 8Z", "HZ"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
