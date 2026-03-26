@@ -80,3 +80,46 @@ const QSLManager = {
             });
     }
 };
+
+/* ================================================================                
+   DOCUMENTATION & USAGE GUIDE (README)
+================================================================
+
+1. HOW TO INCLUDE:
+   Add this script tag to your HTML file:
+   <script src="https://rSignal86.github.io/QSL-BY-BUREAU/data/sorting.js"></script>
+
+2. HOW TO INITIALIZE (BOOT):
+   The QSLManager must fetch the JSON data before it can sort. 
+   Run this when your application starts:
+   
+   window.onload = async () => {
+       const success = await QSLManager.boot();
+       if (success) {
+           console.log("QSL Logic is ready!");
+       }
+   };
+
+3. HOW TO IDENTIFY A SINGLE CALLSIGN:
+   To get country info or bureau status for one callsign:
+   const info = QSLManager.identify("LA1ABC");
+   // Returns: { country: "Norway", hasBureau: true, prefixIndex: 0 }
+
+4. HOW TO SORT A FULL LOG:
+   The sortQSLs function expects an array of objects with a 'callsign' property.
+   
+   let myLog = [
+       { callsign: "W1AW", rst: "599" },
+       { callsign: "LA1ABC", rst: "59" }
+   ];
+   
+   let sortedLog = QSLManager.sortQSLs(myLog);
+
+5. SORTING RULES:
+   - Priority 1: Bureau members first (hasQSLSortService: true).
+   - Priority 2: Alphabetical Country Name.
+   - Priority 3: Prefix order as defined in prefixList.json.
+   - Priority 4: Alphabetical Callsign.
+
+================================================================
+*/
