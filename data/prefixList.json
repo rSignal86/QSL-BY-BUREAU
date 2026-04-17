@@ -896,8 +896,8 @@
       "relatedTerritories": []
     },
     "Poland": {
-      "prefixes": ["SO", "SP", "SQ", "SR", "HF", "SN"],
-      "displayIntervals": ["SO - SR", "HF", "SN"],
+      "prefixes": ["3Z", "SO", "SP", "SQ", "SR", "HF", "SN"],
+      "displayIntervals": ["3Z", "SO - SR", "HF", "SN"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
