@@ -76,8 +76,9 @@ Snitcher is watching. Mistakes will be noticed.
 2. Press ENTER  
 3. Repeat  
 4. Drink soda
-5. Generate labels  
-6. Ship with confidence  
+5. sort by the number when you are din
+6. Drink Soda
+7. Ship with confidence  
 
 That’s it.
 
