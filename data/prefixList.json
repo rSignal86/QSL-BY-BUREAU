@@ -577,9 +577,9 @@
       "hasQSLSortService": false,
       "relatedTerritories": ["Western Kiribati", "Eastern Kiribati", "Banaba Island"]
     },
-    "Korea, North (DPRK)": {
-      "prefixes": ["P5", "P6", "P7", "P8", "P9"],
-      "displayIntervals": ["P5-P9"],
+    "North Korea (Democratic People's Republic of Korea)": {
+      "prefixes": ["P5"],
+      "displayIntervals": ["P5"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
