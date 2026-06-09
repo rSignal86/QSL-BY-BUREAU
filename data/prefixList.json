@@ -662,8 +662,8 @@
       "relatedTerritories": []
     },
     "Madagascar": {
-      "prefixes": ["5R", "5S"],
-      "displayIntervals": ["5R - 5S"],
+      "prefixes": ["5R"],
+      "displayIntervals": ["5R"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
