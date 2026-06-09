@@ -551,7 +551,7 @@
       "prefixes": ["JA0", "JA1", "JA2", "JA3", "JA4", "JA5", "JA6", "JA7", "JA8", "JA9", "JA", "JB", "JC", "JD1", "JE", "JF", "JG", "JH", "JI", "JJ", "JK", "JL", "JM", "JN", "JO", "JP", "JQ", "JR", "JS", "7J", "7K", "7L", "7M", "7N", "8J", "8K", "8L", "8M", "8N"],
       "displayIntervals": ["JA - JS", "7J - 7N", "8J - 8N"],
       "hasQSLSortService": true,
-      "relatedTerritories": ["Ogasawara"]
+      "relatedTerritories": ["Ogasawara", "Minami Torishima"]
     },
     "Jordan": {
       "prefixes": ["JY"],
