@@ -551,8 +551,8 @@
       "prefixes": ["JA0", "JA1", "JA2", "JA3", "JA4", "JA5", "JA6", "JA7", "JA8", "JA9", "JA", "JB", "JC", "JD1", "JE", "JF", "JG", "JH", "JI", "JJ", "JK", "JL", "JM", "JN", "JO", "JP", "JQ", "JR", "JS", "7J", "7K", "7L", "7M", "7N", "8J", "8K", "8L", "8M", "8N"],
       "displayIntervals": ["JA - JS", "7J - 7N", "8J - 8N"],
       "hasQSLSortService": true,
-      "relatedTerritories": ["Ogasawara", "Minami Torishima"]
-    },
+      "relatedTerritories": ["Ogasawara", "Minami Torishima", "Okinawa", "Antarctica (Japanese bases)"]
+    }
     "Jordan": {
       "prefixes": ["JY"],
       "displayIntervals": ["JY"],
@@ -1171,12 +1171,12 @@
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
-    "United Kingdom": {
-      "prefixes": ["G", "M", "2E", "2I", "2J", "2M", "2U", "2W", "G3", "GM", "GW", "GI", "GU", "GJ", "GD"],
-      "displayIntervals": ["G", "M", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD"],
+ "United Kingdom": {
+      "prefixes": ["G", "M", "2E", "2I", "2J", "2M", "2U", "2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP", "VQ", "VS", "ZB", "ZC", "ZD", "ZE", "ZF", "ZG", "ZH", "ZI", "ZJ", "ZN", "ZO", "ZQ"],
+      "displayIntervals": ["G", "M", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP - VQ", "VS", "ZB - ZJ", "ZN - ZO", "ZQ"],
       "hasQSLSortService": true,
-      "relatedTerritories": ["Scotland", "Wales", "Northern Ireland", "Guernsey", "Jersey", "Isle of Man"]
-    },
+      "relatedTerritories": ["Scotland", "Wales", "Northern Ireland", "Guernsey", "Jersey", "Isle of Man", "Gibraltar", "Falkland Islands", "Bermuda", "British Virgin Islands", "Cayman Islands", "Turks and Caicos", "Ascension Island", "St Helena", "Tristan da Cunha"]
+    }
     "United States": {
       "prefixes": ["W0", "W1", "W2", "W3", "W4", "W5", "W6", "W7", "W8", "W9", "K0", "K1", "K2", "K3", "K4", "K5", "K6", "K7", "K8", "K9", "N0", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "AA", "AB", "AC", "AD", "AE", "AF", "AG", "AI", "AJ", "AK", "AL", "AR", "AS", "AT", "AX", "AY", "AZ", "K", "KA", "KB", "KC", "KD", "KE", "KF", "KG", "KH", "KI", "KJ", "KK", "KL", "KM", "KN", "KO", "KP", "KQ", "KR", "KS", "KT", "KU", "KV", "KW", "KX", "KY", "KZ", "N", "NA", "NB", "NC", "ND", "NE", "NF", "NG", "NH", "NI", "NJ", "NK", "NL", "NM", "NN", "NO", "NP", "NQ", "NR", "NS", "NT", "NU", "NV", "NW", "NX", "NY", "NZ", "W", "KL7", "KH6", "KP4", "KH2", "KH8", "KP2"],
       "displayIntervals": ["AA - AG", "AI - AL", "AR", "AS - AT", "AX - AZ", "K", "N", "W", "KL7", "KH6", "KP4", "KH2", "KH8", "KP2"],
