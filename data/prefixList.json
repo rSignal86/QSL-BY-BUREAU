@@ -12,7 +12,7 @@
       "displayIntervals": ["ZA"],
       "hasQSLSortService": true,
       "relatedTerritories": []
-    },
+    },F
     "Algeria": {
       "prefixes": ["7R", "7T", "7U", "7V", "7W", "7X", "7Y"],
       "displayIntervals": ["7R - 7Y"],
@@ -1131,7 +1131,7 @@
     },
     "Tunisia": {
       "prefixes": ["3V", "TS"],
-      "displayIntervals": ["3V, "TS"],
+      "displayIntervals": ["3V", "TS"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
