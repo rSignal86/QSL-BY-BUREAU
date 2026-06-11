@@ -884,7 +884,7 @@
       "relatedTerritories": []
     },
     "Peru": {
-      "prefixes": ["OA", "OB, "OC"],
+      "prefixes": ["OA", "OB", "OC"],
       "displayIntervals": ["OA - OC"],
       "hasQSLSortService": true,
       "relatedTerritories": []
