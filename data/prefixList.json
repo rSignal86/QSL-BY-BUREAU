@@ -552,7 +552,7 @@
       "displayIntervals": ["JA - JS", "7J - 7N", "8J - 8N"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Ogasawara", "Minami Torishima", "Okinawa", "Antarctica (Japanese bases)"]
-    }
+    },
     "Jordan": {
       "prefixes": ["JY"],
       "displayIntervals": ["JY"],
