@@ -1028,8 +1028,8 @@
       "relatedTerritories": []
     },
     "South Africa": {
-      "prefixes": ["ZR", "ZS", "ZT"],
-      "displayIntervals": ["ZR - ZT"],
+      "prefixes": ["ZR", "ZS", "ZT", "ZU"],
+      "displayIntervals": ["ZR - ZU"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Prince Edward & Marion Islands"]
     },
@@ -1130,8 +1130,8 @@
       "relatedTerritories": []
     },
     "Tunisia": {
-      "prefixes": ["3V"],
-      "displayIntervals": ["3V"],
+      "prefixes": ["3V", "TS"],
+      "displayIntervals": ["3V, "TS"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
