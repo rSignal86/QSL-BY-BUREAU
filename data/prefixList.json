@@ -1171,7 +1171,7 @@
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
- "United Kingdom": {
+    "United Kingdom": {
       "prefixes": ["G", "M", "2E", "2I", "2J", "2M", "2U", "2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP", "VQ", "VS", "ZB", "ZC", "ZD", "ZE", "ZF", "ZG", "ZH", "ZI", "ZJ", "ZN", "ZO", "ZQ"],
       "displayIntervals": ["G", "M", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP - VQ", "VS", "ZB - ZJ", "ZN - ZO", "ZQ"],
       "hasQSLSortService": true,
