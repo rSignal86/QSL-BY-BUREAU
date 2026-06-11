@@ -56,10 +56,10 @@
       "relatedTerritories": []
     },
     "Australia": {
-      "prefixes": ["VK1", "VK2", "VK3", "VK4", "VK5", "VK6", "VK7", "VK8", "VK", "AX"],
-      "displayIntervals": ["VK", "AX"],
+      "prefixes": ["VH", "VI", "VJ", "VK1", "VK2", "VK3", "VK4", "VK5", "VK6", "VK7", "VK8", "VK9", "VK0", "VK", "VL", "VM", "VN", "VZ", "AX"],
+      "displayIntervals": ["VH - VN", "VZ", "AX"],
       "hasQSLSortService": true,
-      "relatedTerritories": ["Christmas Island", "Cocos (Keeling) Islands", "Norfolk Island", "Lord Howe Island", "Macquarie Island"]
+      "relatedTerritories": ["Christmas Island", "Cocos (Keeling) Islands", "Norfolk Island", "Lord Howe Island", "Macquarie Island", "Heard Island", "Willis Island", "Mellish Reef"]
     },
     "Austria": {
       "prefixes": ["OE"],
