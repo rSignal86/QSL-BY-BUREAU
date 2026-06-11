@@ -1176,7 +1176,7 @@
       "displayIntervals": ["G", "M", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP - VQ", "VS", "ZB - ZJ", "ZN - ZO", "ZQ"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Scotland", "Wales", "Northern Ireland", "Guernsey", "Jersey", "Isle of Man", "Gibraltar", "Falkland Islands", "Bermuda", "British Virgin Islands", "Cayman Islands", "Turks and Caicos", "Ascension Island", "St Helena", "Tristan da Cunha"]
-    }
+    },
     "United States": {
       "prefixes": ["W0", "W1", "W2", "W3", "W4", "W5", "W6", "W7", "W8", "W9", "K0", "K1", "K2", "K3", "K4", "K5", "K6", "K7", "K8", "K9", "N0", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "AA", "AB", "AC", "AD", "AE", "AF", "AG", "AI", "AJ", "AK", "AL", "AR", "AS", "AT", "AX", "AY", "AZ", "K", "KA", "KB", "KC", "KD", "KE", "KF", "KG", "KH", "KI", "KJ", "KK", "KL", "KM", "KN", "KO", "KP", "KQ", "KR", "KS", "KT", "KU", "KV", "KW", "KX", "KY", "KZ", "N", "NA", "NB", "NC", "ND", "NE", "NF", "NG", "NH", "NI", "NJ", "NK", "NL", "NM", "NN", "NO", "NP", "NQ", "NR", "NS", "NT", "NU", "NV", "NW", "NX", "NY", "NZ", "W", "KL7", "KH6", "KP4", "KH2", "KH8", "KP2"],
       "displayIntervals": ["AA - AG", "AI - AL", "AR", "AS - AT", "AX - AZ", "K", "N", "W", "KL7", "KH6", "KP4", "KH2", "KH8", "KP2"],
