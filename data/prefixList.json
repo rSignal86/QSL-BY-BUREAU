@@ -14,8 +14,8 @@
       "relatedTerritories": []
     },
     "Algeria": {
-      "prefixes": ["7T", "7U", "7V", "7W", "7X", "7Y"],
-      "displayIntervals": ["7T - 7Y"],
+      "prefixes": ["7R", "7T", "7U", "7V", "7W", "7X", "7Y"],
+      "displayIntervals": ["7R - 7Y"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -152,8 +152,8 @@
       "relatedTerritories": []
     },
     "Brazil": {
-      "prefixes": ["PP", "PQ", "PR", "PS", "PT", "PU", "PV", "PW", "PX", "PY", "ZB", "ZC", "ZD", "ZE", "ZF", "ZG", "ZH", "ZI", "ZJ", "ZK", "ZL", "ZM", "ZN", "ZO", "ZP", "ZQ", "ZR", "ZS", "ZT", "ZU", "ZV", "ZW", "ZX", "ZY", "ZZ"],
-      "displayIntervals": ["PP - PY", "ZB - ZZ"],
+      "prefixes": ["PP", "PQ", "PR", "PS", "PT", "PU", "PV", "PW", "PX", "PY", "ZV", "ZW", "ZX", "ZY", "ZZ"],
+      "displayIntervals": ["PP - PY", "ZV - ZZ"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -260,8 +260,8 @@
       "relatedTerritories": []
     },
     "Congo, Democratic Republic of the": {
-      "prefixes": ["9Q", "9R", "9S", "9T"],
-      "displayIntervals": ["9Q - 9T"],
+      "prefixes": ["9O", "9P", "9Q", "9R", "9S", "9R"],
+      "displayIntervals": ["90 - 9T"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -566,8 +566,8 @@
       "relatedTerritories": []
     },
     "Kenya": {
-      "prefixes": ["5Z"],
-      "displayIntervals": ["5Z"],
+      "prefixes": ["5Z", "5Y"],
+      "displayIntervals": ["5Y - 5Z"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -740,8 +740,8 @@
       "relatedTerritories": []
     },
     "Mongolia": {
-      "prefixes": ["JT", "JU"],
-      "displayIntervals": ["JT - JU"],
+      "prefixes": ["JT", "JU", "JV"],
+      "displayIntervals": ["JT - JV"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -884,8 +884,8 @@
       "relatedTerritories": []
     },
     "Peru": {
-      "prefixes": ["OA", "OB"],
-      "displayIntervals": ["OA - OB"],
+      "prefixes": ["OA", "OB, "OC"],
+      "displayIntervals": ["OA - OC"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
