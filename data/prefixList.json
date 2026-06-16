@@ -794,8 +794,8 @@
       "relatedTerritories": ["Bonaire", "Saba & St. Eustatius"]
     },
     "New Zealand": {
-      "prefixes": ["ZL", "ZM", "ZL7"],
-      "displayIntervals": ["ZL - ZM", "ZL7"],
+      "prefixes": ["ZK", "ZL", "ZM", "ZL7"],
+      "displayIntervals": ["ZK - ZM", "ZL7"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Chatham Islands", "Kermadec Islands"]
     },
