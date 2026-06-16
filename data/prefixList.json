@@ -200,8 +200,8 @@
       "relatedTerritories": []
     },
     "Canada": {
-      "prefixes": ["VE1", "VE2", "VE4", "VE5", "VE6", "VE8", "VE9", "VO1", "VO2", "VY0", "VY1", "VY2", "VE", "VA", "VB", "VC", "VD", "VG", "VO", "VY"],
-      "displayIntervals": ["VA - VY"],
+      "prefixes": ["VE1", "VE2", "VE4", "VE5", "VE6", "VE8", "VE9", "VO1", "VO2", "VY0", "VY1", "VY2", "VE", "VA", "VB", "VC", "VD", "VG", "VO", "VY", "CF", "CG", "CH", "CI", "CJ", "CK", "CY", "CZ", "XJ", "XK", "XL", "XM", "XN", "XO"],
+      "displayIntervals": ["VA - VY", "CF - CK", "CY - CZ", "XJ - XO"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Newfoundland", "Yukon", "Nunavut"]
     },
@@ -230,8 +230,8 @@
       "relatedTerritories": ["Easter Island", "Juan Fernandez Islands"]
     },
     "China": {
-      "prefixes": ["B", "BA", "BB", "BC", "BD", "BG", "BH", "BI", "BJ", "BK", "BL", "BM", "BN", "BO", "BP", "BQ", "BR", "BS", "BT", "BU", "BW", "BX", "BY"],
-      "displayIntervals": ["B", "BA - BY"],
+      "prefixes": ["B", "BA", "BB", "BC", "BD", "BG", "BH", "BI", "BJ", "BK", "BL", "BM", "BN", "BO", "BP", "BQ", "BR", "BS", "BT", "BU", "BW", "BX", "BY", "XS", "3H", "3I", "3J", "3K", "3L", "3M", "3N", "3O", "3P", "3Q", "3R", "3S", "3T", "3U"],
+      "displayIntervals": ["B", "BA - BY", "XS", "3H - 3U"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Hong Kong", "Macao", "Taiwan"]
     },
@@ -260,8 +260,8 @@
       "relatedTerritories": []
     },
     "Congo, Democratic Republic of the": {
-      "prefixes": ["9O", "9P", "9Q", "9R", "9S", "9R"],
-      "displayIntervals": ["90 - 9T"],
+      "prefixes": ["9O", "9P", "9Q", "9R", "9S", "9T"],
+      "displayIntervals": ["9O - 9T"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -344,8 +344,8 @@
       "relatedTerritories": ["Galapagos Islands"]
     },
     "Egypt": {
-      "prefixes": ["SU"],
-      "displayIntervals": ["SU"],
+      "prefixes": ["SU", "6A", "6B", "SSA", "SSB", "SSC", "SSD", "SSE", "SSF", "SSG", "SSH", "SSI", "SSJ", "SSK", "SSL", "SSM"],
+      "displayIntervals": ["SU", "6A - 6B", "SSA - SSM"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -374,8 +374,8 @@
       "relatedTerritories": []
     },
     "Eswatini": {
-      "prefixes": ["3DA"],
-      "displayIntervals": ["3DA"],
+      "prefixes": ["3DA", "3DB", "3DC", "3DD", "3DE", "3DF", "3DG", "3DH", "3DI", "3DJ", "3DK", "3DL", "3DM"],
+      "displayIntervals": ["3DA - 3DM"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -386,8 +386,8 @@
       "relatedTerritories": []
     },
     "Fiji": {
-      "prefixes": ["3D2"],
-      "displayIntervals": ["3D2"],
+      "prefixes": ["3DN", "3DO", "3DP", "3DQ", "3DR", "3DS", "3DT", "3DU", "3DV", "3DW", "3DX", "3DY", "3DZ"],
+      "displayIntervals": ["3DN - 3DZ"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Rotuma"]
     },
@@ -398,8 +398,8 @@
       "relatedTerritories": ["Aland Islands"]
     },
     "France": {
-      "prefixes": ["F", "FA", "FB", "FC", "FD", "FE", "FF", "FG", "FH", "FI", "FJ", "FK", "FL", "FM", "FN", "FO", "FP", "FQ", "FR", "FS", "FT", "FU", "FV", "FW", "FX", "FY", "TM", "HW", "HX", "HY"],
-      "displayIntervals": ["F", "FA - FY", "TM", "HW - HY"],
+      "prefixes": ["F", "FA", "FB", "FC", "FD", "FE", "FF", "FG", "FH", "FI", "FJ", "FK", "FL", "FM", "FN", "FO", "FP", "FQ", "FR", "FS", "FT", "FU", "FV", "FW", "FX", "FY", "TM", "HW", "HX", "HY", "TH", "TK", "TO", "TP", "TQ", "TV", "TW", "TX"],
+      "displayIntervals": ["F", "FA - FY", "TM", "HW - HY", "TH", "TK", "TO - TQ", "TV - TX"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Guadeloupe", "Martinique", "Reunion", "New Caledonia", "French Polynesia", "Clipperton Island"]
     },
@@ -422,8 +422,8 @@
       "relatedTerritories": []
     },
     "Germany": {
-      "prefixes": ["DA", "DB", "DC", "DD", "DE", "DF", "DG", "DH", "DI", "DJ", "DK", "DL", "DM", "DN", "DO", "DP", "DQ", "DR"],
-      "displayIntervals": ["DA - DR"],
+      "prefixes": ["DA", "DB", "DC", "DD", "DE", "DF", "DG", "DH", "DI", "DJ", "DK", "DL", "DM", "DN", "DO", "DP", "DQ", "DR", "Y2", "Y3", "Y4", "Y5", "Y6", "Y7", "Y8", "Y9"],
+      "displayIntervals": ["DA - DR", "Y2 - Y9"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -500,15 +500,21 @@
       "relatedTerritories": []
     },
     "India": {
-      "prefixes": ["VU", "AT", "AU", "AV", "AW", "VU4", "VU7"],
-      "displayIntervals": ["VU", "AT - AW", "VU4", "VU7"],
+      "prefixes": ["VU", "AT", "AU", "AV", "AW", "VU4", "VU7", "VT", "VV", "VW", "8T", "8U", "8V", "8W", "8X", "8Y"],
+      "displayIntervals": ["VU", "AT - AW", "VU4", "VU7", "VT - VW", "8T - 8Y"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Andaman and Nicobar Islands", "Lakshadweep"]
     },
     "Indonesia": {
-      "prefixes": ["YB", "YC", "YD", "YE", "PK", "PL", "PM", "PN", "PO"],
-      "displayIntervals": ["YB - YE", "PK - PO"],
+      "prefixes": ["YB", "YC", "YD", "YE", "PK", "PL", "PM", "PN", "PO", "JZ", "7A", "7B", "7C", "7D", "7E", "7F", "7G", "7H", "7I", "8A", "8B", "8C", "8D", "8E", "8F", "8G", "8H", "8I"],
+      "displayIntervals": ["YB - YE", "PK - PO", "JZ", "7A - 7I", "8A - 8I"],
       "hasQSLSortService": true,
+      "relatedTerritories": []
+    },
+    "International Organizations": {
+      "prefixes": ["4U", "4Y", "C7"],
+      "displayIntervals": ["4U", "4Y", "C7"],
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Iran": {
@@ -584,8 +590,8 @@
       "relatedTerritories": []
     },
     "Korea, South": {
-      "prefixes": ["HL", "DS", "DT"],
-      "displayIntervals": ["HL", "DS - DT"],
+      "prefixes": ["HL", "DS", "DT", "D7", "D8", "D9", "6K", "6L", "6M", "6N"],
+      "displayIntervals": ["HL", "DS - DT", "D7 - D9", "6K - 6N"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -626,8 +632,8 @@
       "relatedTerritories": []
     },
     "Liberia": {
-      "prefixes": ["EL"],
-      "displayIntervals": ["EL"],
+      "prefixes": ["EL", "A8", "D5", "5L", "5M", "6Z"],
+      "displayIntervals": ["EL", "A8", "D5", "5L - 5M", "6Z"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -716,8 +722,8 @@
       "relatedTerritories": ["Rodriguez Island"]
     },
     "Mexico": {
-      "prefixes": ["XE", "XA", "XB", "XC", "XD", "XF", "XG", "XH", "XI"],
-      "displayIntervals": ["XA - XI"],
+      "prefixes": ["XE", "XA", "XB", "XC", "XD", "XF", "XG", "XH", "XI", "4A", "4B", "4C", "6D", "6E", "6F", "6G", "6H", "6I", "6J"],
+      "displayIntervals": ["XA - XI", "4A - 4C", "6D - 6J"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Revillagigedo"]
     },
@@ -969,7 +975,7 @@
     },
     "Saudi-Arabia": {
       "prefixes": ["7Z", "8Z", "HZ"],
-      "displayIntervals": ["7Z- 8Z", "HZ"],
+      "displayIntervals": ["7Z - 8Z", "HZ"],
       "hasQSLSortService": true,
       "relatedTerritories": []
     },
@@ -1052,8 +1058,8 @@
       "relatedTerritories": []
     },
     "Sudan": {
-      "prefixes": ["ST"],
-      "displayIntervals": ["ST"],
+      "prefixes": ["ST", "SSN", "SSO", "SSP", "SSQ", "SSR", "SSS", "SST", "SSU", "SSV", "SSW", "SSX", "SSY", "SSZ", "6T", "6U"],
+      "displayIntervals": ["ST", "SSN - SSZ", "6T - 6U"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -1172,8 +1178,8 @@
       "relatedTerritories": []
     },
     "United Kingdom": {
-      "prefixes": ["G", "M", "2E", "2I", "2J", "2M", "2U", "2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP", "VQ", "VS", "ZB", "ZC", "ZD", "ZE", "ZF", "ZG", "ZH", "ZI", "ZJ", "ZN", "ZO", "ZQ"],
-      "displayIntervals": ["G", "M", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP - VQ", "VS", "ZB - ZJ", "ZN - ZO", "ZQ"],
+      "prefixes": ["G", "M", "2", "2E", "2I", "2J", "2M", "2U", "2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP", "VQ", "VS", "ZB", "ZC", "ZD", "ZE", "ZF", "ZG", "ZH", "ZI", "ZJ", "ZN", "ZO", "ZQ"],
+      "displayIntervals": ["G", "M", "2", "2E - 2W", "GM", "GW", "GI", "GU", "GJ", "GD", "VP - VQ", "VS", "ZB - ZJ", "ZN - ZO", "ZQ"],
       "hasQSLSortService": true,
       "relatedTerritories": ["Scotland", "Wales", "Northern Ireland", "Guernsey", "Jersey", "Isle of Man", "Gibraltar", "Falkland Islands", "Bermuda", "British Virgin Islands", "Cayman Islands", "Turks and Caicos", "Ascension Island", "St Helena", "Tristan da Cunha"]
     },
