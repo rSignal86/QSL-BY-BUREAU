@@ -4,13 +4,13 @@
     "Afghanistan": {
       "prefixes": ["YA", "T6"],
       "displayIntervals": ["YA", "T6"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Albania": {
       "prefixes": ["ZA"],
       "displayIntervals": ["ZA"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Algeria": {
@@ -28,7 +28,7 @@
     "Angola": {
       "prefixes": ["D2", "D3"],
       "displayIntervals": ["D2 - D3"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Antigua and Barbuda": {
@@ -70,7 +70,7 @@
     "Azerbaijan": {
       "prefixes": ["4J", "4K"],
       "displayIntervals": ["4J - 4K"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Bahamas": {
@@ -82,7 +82,7 @@
     "Bahrain": {
       "prefixes": ["A9"],
       "displayIntervals": ["A9"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Bangladesh": {
@@ -100,7 +100,7 @@
     "Belarus": {
       "prefixes": ["EU", "EV", "EW"],
       "displayIntervals": ["EU - EW"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Belgium": {
@@ -118,19 +118,19 @@
     "Benin": {
       "prefixes": ["TY"],
       "displayIntervals": ["TY"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Bermuda": {
       "prefixes": ["VP9"],
       "displayIntervals": ["VP9"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Bhutan": {
       "prefixes": ["A5"],
       "displayIntervals": ["A5"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Bolivia": {
@@ -178,7 +178,7 @@
     "Burundi": {
       "prefixes": ["9U"],
       "displayIntervals": ["9U"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Cabo Verde": {
@@ -190,13 +190,13 @@
     "Cambodia": {
       "prefixes": ["XU"],
       "displayIntervals": ["XU"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Cameroon": {
       "prefixes": ["TJ"],
       "displayIntervals": ["TJ"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Canada": {
@@ -214,13 +214,13 @@
     "Central African Republic": {
       "prefixes": ["TL"],
       "displayIntervals": ["TL"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Chad": {
       "prefixes": ["TT"],
       "displayIntervals": ["TT"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Chile": {
@@ -256,13 +256,13 @@
     "Comoros": {
       "prefixes": ["D6"],
       "displayIntervals": ["D6"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Congo, Democratic Republic of the": {
       "prefixes": ["9O", "9P", "9Q", "9R", "9S", "9T"],
       "displayIntervals": ["9O - 9T"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Congo, Republic of the": {
@@ -280,7 +280,7 @@
     "Ivory Coast": {
       "prefixes": ["TU"],
       "displayIntervals": ["TU"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Croatia": {
@@ -358,13 +358,13 @@
     "Equatorial Guinea": {
       "prefixes": ["3C"],
       "displayIntervals": ["3C"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": ["Annobon Island"]
     },
     "Eritrea": {
       "prefixes": ["E3"],
       "displayIntervals": ["E3"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Estonia": {
@@ -454,13 +454,13 @@
     "Guinea": {
       "prefixes": ["3X"],
       "displayIntervals": ["3X"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Guinea-Bissau": {
       "prefixes": ["J5"],
       "displayIntervals": ["J5"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Guyana": {
@@ -470,8 +470,8 @@
       "relatedTerritories": []
     },
     "Haiti": {
-      "prefixes": ["HH"],
-      "displayIntervals": ["HH"],
+      "prefixes": ["HH", "4V"],
+      "displayIntervals": ["HH", "4V"],
       "hasQSLSortService": false,
       "relatedTerritories": []
     },
@@ -514,19 +514,19 @@
     "International Organizations": {
       "prefixes": ["4U", "4Y", "C7"],
       "displayIntervals": ["4U", "4Y", "C7"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Iran": {
       "prefixes": ["EP", "EQ"],
       "displayIntervals": ["EP - EQ"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Iraq": {
       "prefixes": ["YI"],
       "displayIntervals": ["YI"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Ireland": {
@@ -538,7 +538,7 @@
     "Israel": {
       "prefixes": ["4X", "4Z"],
       "displayIntervals": ["4X - 4Z"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Italy": {
@@ -580,13 +580,13 @@
     "Kiribati": {
       "prefixes": ["T3"],
       "displayIntervals": ["T3"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": ["Western Kiribati", "Eastern Kiribati", "Banaba Island"]
     },
     "North Korea (Democratic People's Republic of Korea)": {
       "prefixes": ["P5"],
       "displayIntervals": ["P5"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Korea, South": {
@@ -610,7 +610,7 @@
     "Laos": {
       "prefixes": ["XW"],
       "displayIntervals": ["XW"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Latvia": {
@@ -640,7 +640,7 @@
     "Libya": {
       "prefixes": ["5A"],
       "displayIntervals": ["5A"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Liechtenstein": {
@@ -670,13 +670,13 @@
     "Madagascar": {
       "prefixes": ["5R"],
       "displayIntervals": ["5R"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Malawi": {
       "prefixes": ["7Q"],
       "displayIntervals": ["7Q"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Malaysia": {
@@ -688,7 +688,7 @@
     "Maldives": {
       "prefixes": ["8Q"],
       "displayIntervals": ["8Q"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Mali": {
@@ -712,7 +712,7 @@
     "Mauritania": {
       "prefixes": ["5T"],
       "displayIntervals": ["5T"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Mauritius": {
@@ -730,7 +730,7 @@
     "Micronesia": {
       "prefixes": ["V6"],
       "displayIntervals": ["V6"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Moldova": {
@@ -784,13 +784,13 @@
     "Nauru": {
       "prefixes": ["C2"],
       "displayIntervals": ["C2"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Nepal": {
       "prefixes": ["9N"],
       "displayIntervals": ["9N"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Netherlands": {
@@ -814,7 +814,7 @@
     "Niger": {
       "prefixes": ["5U"],
       "displayIntervals": ["5U"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Nigeria": {
@@ -928,13 +928,13 @@
     "Russia": {
       "prefixes": ["R", "RA", "RB", "RC", "RD", "RE", "RF", "RG", "RH", "RI", "RJ", "RK", "RL", "RM", "RN", "RO", "RP", "RQ", "RR", "RS", "RT", "RU", "RV", "RW", "RX", "RY", "RZ", "UA", "UB", "UC", "UD", "UE", "UF", "UG", "UH", "UI"],
       "displayIntervals": ["R", "RA - RZ", "UA - UI"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": ["Kaliningrad", "Asiatic Russia", "Franz Josef Land"]
     },
     "Rwanda": {
       "prefixes": ["9X"],
       "displayIntervals": ["9X"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Saint Kitts and Nevis": {
@@ -946,7 +946,7 @@
     "Saint Lucia": {
       "prefixes": ["J6"],
       "displayIntervals": ["J6"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Saint Vincent and the Grenadines": {
@@ -970,7 +970,7 @@
     "Sao Tome and Principe": {
       "prefixes": ["S9"],
       "displayIntervals": ["S9"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Saudi-Arabia": {
@@ -994,7 +994,7 @@
     "Seychelles": {
       "prefixes": ["S7"],
       "displayIntervals": ["S7"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Sierra Leone": {
@@ -1024,13 +1024,13 @@
     "Solomon Islands": {
       "prefixes": ["H4"],
       "displayIntervals": ["H4"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": []
     },
     "Somalia": {
       "prefixes": ["T5", "6O"],
       "displayIntervals": ["T5", "6O"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "South Africa": {
@@ -1042,7 +1042,7 @@
     "South Sudan": {
       "prefixes": ["Z8"],
       "displayIntervals": ["Z8"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Spain": {
@@ -1084,7 +1084,7 @@
     "Syria": {
       "prefixes": ["YK"],
       "displayIntervals": ["YK"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Taiwan": {
@@ -1114,13 +1114,13 @@
     "Timor-Leste": {
       "prefixes": ["4W"],
       "displayIntervals": ["4W"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Togo": {
       "prefixes": ["5V"],
       "displayIntervals": ["5V"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Tonga": {
@@ -1156,7 +1156,7 @@
     "Tuvalu": {
       "prefixes": ["T2"],
       "displayIntervals": ["T2"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Uganda": {
@@ -1174,7 +1174,7 @@
     "United Arab Emirates - UAE": {
       "prefixes": ["A6"],
       "displayIntervals": ["A6"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "United Kingdom": {
@@ -1222,13 +1222,13 @@
     "Vietnam": {
       "prefixes": ["3W", "XV"],
       "displayIntervals": ["3W", "XV"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Yemen": {
       "prefixes": ["7O"],
       "displayIntervals": ["7O"],
-      "hasQSLSortService": false,
+      "hasQSLSortService": true,
       "relatedTerritories": []
     },
     "Zambia": {
