@@ -928,7 +928,7 @@
     "Russia": {
       "prefixes": ["R", "RA", "RB", "RC", "RD", "RE", "RF", "RG", "RH", "RI", "RJ", "RK", "RL", "RM", "RN", "RO", "RP", "RQ", "RR", "RS", "RT", "RU", "RV", "RW", "RX", "RY", "RZ", "UA", "UB", "UC", "UD", "UE", "UF", "UG", "UH", "UI"],
       "displayIntervals": ["R", "RA - RZ", "UA - UI"],
-      "hasQSLSortService": true,
+      "hasQSLSortService": false,
       "relatedTerritories": ["Kaliningrad", "Asiatic Russia", "Franz Josef Land"]
     },
     "Rwanda": {
